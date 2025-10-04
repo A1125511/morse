@@ -12,4 +12,4 @@ A small self-study project for learning Morse code input.
 Clone this repo and run:
 
 ```bash
-python main.py
+python morse.py
