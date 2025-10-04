@@ -1,0 +1,20 @@
+# 忽略虛擬環境
+venv/
+.env/
+
+# Python 編譯檔案
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm 設定
+.vscode/
+.idea/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
