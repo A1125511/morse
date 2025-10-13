@@ -1,0 +1,6 @@
+timing:
+  auto_convert_timeout: 1.5  # 秒數
+
+keyboard:
+  key: "space"
+  exit_key: "esc"
